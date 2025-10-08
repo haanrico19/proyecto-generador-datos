@@ -1,0 +1,12 @@
+# Ignorar archivos compilados de Java
+*.class
+
+# Ignorar carpetas de compilación comunes
+/bin/
+/out/
+/target/
+/.idea/
+/.vscode/
+
+# Mantener la carpeta data
+!/data/
