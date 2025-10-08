@@ -1,0 +1,12 @@
+ID	Nombre		Ventas Totales
+-----------------------------------
+1	Carlos Pérez		42
+2	María Gómez		28
+3	José Ramírez		51
+4	Lucía Torres		64
+5	Andrés Rivera		53
+6	Elena Díaz		34
+7	Pablo López		39
+8	Camila Herrera		50
+9	Sofía Castro		85
+10	David Ruiz		87

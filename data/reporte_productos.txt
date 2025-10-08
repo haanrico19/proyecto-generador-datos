@@ -1,0 +1,5 @@
+REPORTE DE PRODUCTOS
+=====================
+Este archivo contiene el listado general de productos generados.
+
+Total de productos: 10

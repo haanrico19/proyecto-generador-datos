@@ -1,0 +1,5 @@
+REPORTE DE VENDEDORES
+======================
+Este archivo contiene el listado general de vendedores generados.
+
+Total de vendedores: 10

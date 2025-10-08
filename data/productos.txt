@@ -1,0 +1,12 @@
+ID	Nombre		Precio
+-----------------------------------
+1	Laptop		$534,93
+2	Mouse		$251,10
+3	Teclado		$190,58
+4	Monitor		$385,63
+5	Impresora		$208,99
+6	Auriculares		$338,21
+7	Micrófono		$449,80
+8	Tablet		$172,32
+9	Smartphone		$144,25
+10	Webcam		$543,51
