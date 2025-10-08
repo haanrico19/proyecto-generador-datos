@@ -1,7 +1,6 @@
 // ===============================================================
 // Archivo: GenerateInfoFiles.java
 // Proyecto: Generador de Datos
-// Autor: Andres Rivas
 // Materia: Conceptos Fundamentales de la Programación
 // Descripción:
 //   Esta clase contiene los métodos necesarios para generar
