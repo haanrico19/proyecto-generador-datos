@@ -1,7 +1,6 @@
 // ===============================================================
 // Archivo: Main.java
 // Proyecto: Generador de Datos
-// Autor: Andres Rivas
 // Materia: Conceptos Fundamentales de la Programación
 // Descripción:
 //   Clase principal que ejecuta el programa. 
