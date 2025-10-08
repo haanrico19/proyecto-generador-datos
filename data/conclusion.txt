@@ -1,0 +1,10 @@
+CONCLUSIÓN DEL PROYECTO
+
+1. Lo aprendido durante el desarrollo del proyecto:
+Durante este proyecto aprendimos a estructurar un programa en Java usando múltiples clases con responsabilidades específicas. También aplicamos conceptos de manejo de archivos, generación de datos pseudoaleatorios y procesamiento de información para crear reportes automatizados.
+
+2. Posibles aplicaciones profesionales:
+Las destrezas aprendidas son útiles para el manejo de datos en empresas, especialmente en la automatización de reportes de ventas, inventarios y generación de información a partir de registros. Este tipo de programas puede servir como base para sistemas de gestión comercial.
+
+3. Dificultades presentadas:
+Las principales dificultades fueron comprender la estructura requerida del proyecto, organizar correctamente las clases y manejar la lectura y escritura de archivos en Java. Sin embargo, con práctica y revisión del código se logró completar satisfactoriamente el desarrollo.
